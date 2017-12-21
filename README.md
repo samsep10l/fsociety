@@ -1,3 +1,1 @@
------BEGIN CERTIFICATE-----
 NjYuMTEyLjIxNC4xMDc=
------END CERTIFICATE-----
